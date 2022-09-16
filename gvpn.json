@@ -61,12 +61,12 @@
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/v.github.io/main/answer.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/v.github.io/main/quiz(3).png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
@@ -76,12 +76,12 @@
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/v.github.io/main/application.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/v.github.io/main/game-over.png",
             "bg" : "#673AB7"
         }
     ],

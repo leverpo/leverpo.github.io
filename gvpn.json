@@ -46,7 +46,7 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/v.github.io/main/2.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
@@ -56,7 +56,7 @@
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/v.github.io/main/eraseimage.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",

@@ -59,7 +59,7 @@
             "ico" : "https://raw.githubusercontent.com/leverpo/v.github.io/main/eraseimage.png",
             "bg" : "#38BDF8"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "questions",
             "ico" : "https://raw.githubusercontent.com/leverpo/v.github.io/main/answer.png",
             "bg" : "#2DD4BF"

@@ -100,42 +100,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/m1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/m2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/m3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/m4.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/m5.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/m6.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/m7.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/m8.png",
             "bg" : "#673AB7"
         }
     ],
@@ -281,11 +281,11 @@
         {
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
+            "name" : "J.Biebs",
             "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
             "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "part1" : "SPECIAL SURVIVAL ABILITY",
+            "part2" : "Skill user and allies can block damage using EP. In this case, the amount of EP deducted from allies will be added to the skill user EP."
         },
         {
             "url" : "",

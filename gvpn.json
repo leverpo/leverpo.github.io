@@ -43,21 +43,21 @@
         {
             "questions" :
             [
-                { "question" : "q1" },
-                { "question" : "q2" },
-                { "question" : "q3" }
+                { "question" : "Who is the DJ character?" },
+                { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Game was published by Garena for which of the following platform(s)?" }
             ],
             "answers" :
             [
-                { "answer" : "a1" },
-                { "answer" : "a2" },
-                { "answer" : "a3" }
+                { "answer" : "ALOK" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Android and iOS" }
             ],
             "options" :
             [
-                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
-                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
-                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Nikita" }, { "option" : "Adam" },
+                { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
+                { "option" : "Game Boy" }, { "option" : "Android and iOS" }, { "option" : "Linux and Nintendo" }, { "option" : "Sega Mark III" }
             ]
         }
     ],

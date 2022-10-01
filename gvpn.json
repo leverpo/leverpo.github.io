@@ -45,6 +45,11 @@
             [
                 { "question" : "Who is the DJ character?" },
                 { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Who is the first character?" },
+                { "question" : "What is the 2nd card?" },
+                { "question" : "How many animals are there?" },
+                { "question" : "Which of the following is the correct Game genre?" },
+                { "question" : "The game play is fast-paced with each round lasting:" },
                 { "question" : "Who is the DJ character?" },
                 { "question" : "Game was published by Garena for which of the following platform(s)?" }
             ],
@@ -52,13 +57,23 @@
             [
                 { "answer" : "ALOK" },
                 { "answer" : "Adam and Eve" },
+                { "answer" : "Adam" },
+                { "answer" : "Portugal" },
+                { "answer" : "More" },
+                { "answer" : "Battle Royale" },
+                { "answer" : "20 minutes" },
                 { "answer" : "Adam and Eve" },
                 { "answer" : "Android and iOS" }
             ],
             "options" :
             [
-                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Nikita" }, { "option" : "Adam" },
-                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Nikita" }, { "option" : "Adam" },
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
+                { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Portugal" }, { "option" : "Snowball" }, { "option" : "zombie invasion" }, { "option" : "Classic" },
+                { "option" : "5" }, { "option" : "2" }, { "option" : "7" }, { "option" : "More" },
+                { "option" : "Adventure" }, { "option" : "Role-Playing" }, { "option" : "Battle Royale" }, { "option" : "Simulation" },
+                { "option" : "10 minutes" }, { "option" : "15 minutes" }, { "option" : "20 minutes" }, { "option" : "25 minutes" },
                 { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
                 { "option" : "Game Boy" }, { "option" : "Android and iOS" }, { "option" : "Linux and Nintendo" }, { "option" : "Sega Mark III" }
             ]

@@ -66,27 +66,27 @@
         {
             "images" :
             [
-                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
-                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
-                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
-                { "image" : "https://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
-                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" }
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/gif/1.gif" },
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/gif/2.gif" },
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/gif/3.gif" },
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/gif/4.gif" },
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/quizimage/image/1.jpg" }
             ],
             "answers" :
             [
-                { "answer" : "true" },
-                { "answer" : "true" },
-                { "answer" : "true" },
-                { "answer" : "true" },
-                { "answer" : "true" }
+                { "answer" : "Destiny Guardian" },
+                { "answer" : "Predatory Cobra" },
+                { "answer" : "Destiny Effect" },
+                { "answer" : "Cobra Effect" },
+                { "answer" : "SPAS12" }
             ],
             "options" :
             [
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" },
-                { "option" : "true" }, { "option" : "true" }, { "option" : "true" }, { "option" : "true" }
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" },
             ]
         }
     ],

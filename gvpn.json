@@ -45,16 +45,19 @@
             [
                 { "question" : "Who is the DJ character?" },
                 { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Who is the DJ character?" },
                 { "question" : "Game was published by Garena for which of the following platform(s)?" }
             ],
             "answers" :
             [
                 { "answer" : "ALOK" },
                 { "answer" : "Adam and Eve" },
+                { "answer" : "Adam and Eve" },
                 { "answer" : "Android and iOS" }
             ],
             "options" :
             [
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Nikita" }, { "option" : "Adam" },
                 { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Nikita" }, { "option" : "Adam" },
                 { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
                 { "option" : "Game Boy" }, { "option" : "Android and iOS" }, { "option" : "Linux and Nintendo" }, { "option" : "Sega Mark III" }
@@ -86,7 +89,7 @@
                 { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
                 { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
                 { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
-                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" }
             ]
         }
     ],

@@ -12,7 +12,7 @@
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "FAN",
+            "network" : "fan",
 
             "admob_ban" : "",
             "admob_native" : "",
@@ -26,9 +26,9 @@
             "max_native" : "",
             "max_int" : "",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#598820135107691_598889551767416",
-            "fan_native": "IMG_16_9_APP_INSTALL#598820135107691_637125161277188",
-            "fan_int": "IMG_16_9_APP_INSTALL#598820135107691_637118384611199",
+            "fan_ban": "598820135107691_598889551767416",
+            "fan_native": "598820135107691_637125161277188",
+            "fan_int": "598820135107691_637118384611199",
 
             "iron_source_key": "",
 

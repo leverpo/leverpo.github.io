@@ -7,30 +7,30 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 3,
+           "int_interval" : 5,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "fan",
+            "network" : "admob",
 
-            "admob_ban" : "",
-            "admob_native" : "",
-            "admob_int" : "",
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
             
-            "yandex_ban" : "",
-            "yandex_native" : "",
-            "yandex_int" : "",
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
 
-            "max_ban" : "",
-            "max_native" : "",
-            "max_int" : "",
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
 
-            "fan_ban": "598820135107691_598889551767416",
-            "fan_native": "598820135107691_637125161277188",
-            "fan_int": "598820135107691_637118384611199",
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "",
+            "iron_source_key": "12c959ebd",
 
             "main_ico": "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/main/main.png",
             

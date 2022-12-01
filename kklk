@@ -133,7 +133,7 @@
             "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
             "bg" : "#673AB7"

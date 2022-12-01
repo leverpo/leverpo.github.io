@@ -7,7 +7,7 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 5,
+            "int_interval" : 10,
             "activate_ads" : "true",
             "activate_steps" : "true",
             "activate_step_email" : "true",

@@ -123,12 +123,12 @@
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
             "bg" : "#2196F3"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
             "ico" : "https://img.icons8.com/ios/130/ffffff/handshake-heart.png",
             "bg" : "#3F51B5"

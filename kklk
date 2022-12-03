@@ -66,11 +66,11 @@
         {
             "images" :
             [
-                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
-                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
-                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
-                { "image" : "https://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
-                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" }
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/a.png" },
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aa.png" },
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aaa.png" },
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aaaa.png" },
+                { "image" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/scratchme.png" }
             ],
             "answers" :
             [
@@ -143,11 +143,11 @@
     "more" : [
         {
             "name" : "Zoopolis: Animal Evolution",
-            "ico" : "https://play-lh.googleusercontent.com/qi9Q5yIgYuSFYOLaRvkrzEWUdIPUoGKZcidP9kP4IRCbLWs7f2vVaMs5_YBWMh5URkU=s480-rw",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aaaa.png",
             "link" : "https://play.google.com/store/apps/details?id=com.azurinteractive.animalsevolution"
         },{
             "name" : "Yes or No?! - Food Pranks",
-            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aaa.png",
             "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
         },{
             "name" : "The Real Juggle",
@@ -222,15 +222,15 @@
     
     "scratch" : [
         {
-            "img" : "https://media.istockphoto.com/vectors/scratch-and-win-letters-scratched-effect-background-and-stars-place-vector-id985966248?k=20&m=985966248&s=612x612&w=0&h=mQlnhRg3AvHwV_lKVS-YDuErpY35LeGie2VKezaSX0Q="
+            "img" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aaaa.png"
         },{
-            "img" : "https://thumbs.dreamstime.com/b/scratch-win-letters-scratched-effect-background-stars-scratch-win-letters-scratched-effect-background-stars-ribbon-120022586.jpg"
+            "img" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aaa.png"
         },{
-            "img" : "https://cdn.appsmav.com/win/upload/img/242/42/6242_scratch_1559542007.png"
+            "img" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/scratchme.png"
         },{
-            "img" : "https://play-lh.googleusercontent.com/wsm1brgFhjT-1_czu_JpoUVnthTafMWVCidTnrYwsR6djLUwggqIGDmlwhrnbRa0eTQ"
+            "img" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/scratchme.png"
         },{
-            "img" : "https://play-lh.googleusercontent.com/H4ql9I6x-3x_AIM6HUPyzX7Wqral-yEazluTt_-rIzn5_U8NIYOh8QsjzHd-75S6-ks"
+            "img" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aa.png"
         }
     ],
 
@@ -282,7 +282,7 @@
             "url" : "https://www.ted.com/",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/aaa.png",
             "img2" : "https://i.gifer.com/BCyK.gif",
             "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
             "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."

@@ -32,7 +32,7 @@
 
             "iron_source_key": "12c959ebd",
 
-            "main_ico": "https://seeklogo.com/images/S/stumble-guys-logo-E3E4BE536E-seeklogo.com.png",
+            "main_ico": "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/costom/headico.png",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -43,21 +43,36 @@
         {
             "questions" :
             [
-                { "question" : "q1" },
-                { "question" : "q2" },
-                { "question" : "q3" }
+                { "question" : "Name the original cryptocurrency?" },
+                { "question" : "Who invented Bitcoin?" },
+                { "question" : "What was one of the problems that Bitcoin solved?" },
+                { "question" : "This type of ledger is replicated and stored across multiple locations instead of a single central location." },
+                { "question" : "The Bitcoin software is open source which means..." },
+                { "question" : "The Bitcoin __ is the set of rules that define how the Bitcoin system operates" },
+                { "question" : "If a computer is connected to the internet and starts running the Bitcoin software, it becomes part of the Bitcoin ___." },
+                { "question" : "What is the maximum number of bitcoins that can be created?" }
             ],
             "answers" :
             [
-                { "answer" : "a1" },
-                { "answer" : "a2" },
-                { "answer" : "a3" }
+                { "answer" : "bitcoin" },
+                { "answer" : "Fusajiro Yamauchi" },
+                { "answer" : "Double spending" },
+                { "answer" : "Distributed Ledger" },
+                { "answer" : "The software code is freely available on the Internet . The code can be copied , modified or deleted by other users" },
+                { "answer" : "Protoco" },
+                { "answer" : "network" },
+                { "answer" : "21 milion" }
             ],
             "options" :
             [
-                { "option" : "a1" }, { "option" : "ax" }, { "option" : "ac" }, { "option" : "ad" },
-                { "option" : "iu" }, { "option" : "a2" }, { "option" : "po" }, { "option" : "gh" },
-                { "option" : "kp" }, { "option" : "lk" }, { "option" : "km" }, { "option" : "a3" }
+                { "option" : "bytecoin" }, { "option" : "bitcoin" }, { "option" : "dogecoin" }, { "option" : "digicoin" },
+                { "option" : "Satoshi Nakamoto" }, { "option" : "hikaru Nakamura" }, { "option" : "Fusajiro Yamauchi" }, { "option" : "Hayao Miyazaki" },
+                { "option" : "Double spending" }, { "option" : "Quantum Gravity" }, { "option" : "Hodge Conjecture" }, { "option" : "Global Warming" },
+                { "option" : "Digital ledger" }, { "option" : "Distributed Ledger" }, { "option" : "Centralized Ledger" }, { "option" : "digicoin" },
+                { "option" : "The software code is freely available on the Internet . The code can be copied , modified or deleted by other users" }, { "option" : "The software code uses the proprietary and closely guarded code . Only the original authors of software can access , copy , and alter that software" }, { "option" : "dogecoin" }, { "option" : "digicoin" },
+                { "option" : "network" }, { "option" : "node" }, { "option" : "Protoco" }, { "option" : "digicoin" },
+                { "option" : "Protocol" }, { "option" : "network" }, { "option" : "node" }, { "option" : "digicoin" },
+                { "option" : "2,1 milion" }, { "option" : "unlimited" }, { "option" : "100 milionm" }, { "option" : "21 milion" }
             ]
         }
     ],
@@ -118,7 +133,7 @@
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"

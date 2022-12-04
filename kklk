@@ -68,10 +68,10 @@
                 { "option" : "bytecoin" }, { "option" : "bitcoin" }, { "option" : "dogecoin" }, { "option" : "digicoin" },
                 { "option" : "Satoshi Nakamoto" }, { "option" : "hikaru Nakamura" }, { "option" : "Fusajiro Yamauchi" }, { "option" : "Hayao Miyazaki" },
                 { "option" : "Double spending" }, { "option" : "Quantum Gravity" }, { "option" : "Hodge Conjecture" }, { "option" : "Global Warming" },
-                { "option" : "Digital ledger" }, { "option" : "Distributed Ledger" }, { "option" : "Centralized Ledger" }, { "option" : "digicoin" },
-                { "option" : "The software code is freely available on the Internet . The code can be copied , modified or deleted by other users" }, { "option" : "The software code uses the proprietary and closely guarded code . Only the original authors of software can access , copy , and alter that software" }, { "option" : "dogecoin" }, { "option" : "digicoin" },
-                { "option" : "network" }, { "option" : "node" }, { "option" : "Protoco" }, { "option" : "digicoin" },
-                { "option" : "Protocol" }, { "option" : "network" }, { "option" : "node" }, { "option" : "digicoin" },
+                { "option" : "Digital ledger" }, { "option" : "Distributed Ledger" }, { "option" : "Centralized Ledger" },
+                { "option" : "The software code is freely available on the Internet . The code can be copied , modified or deleted by other users" }, { "option" : "The software code uses the proprietary and closely guarded code . Only the original authors of software can access , copy , and alter that software" },
+                { "option" : "network" }, { "option" : "node" }, { "option" : "Protoco" },
+                { "option" : "Protocol" }, { "option" : "network" }, { "option" : "node" },
                 { "option" : "2,1 milion" }, { "option" : "unlimited" }, { "option" : "100 milionm" }, { "option" : "21 milion" }
             ]
         }

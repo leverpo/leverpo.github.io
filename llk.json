@@ -32,7 +32,7 @@
 
             "iron_source_key": "",
 
-            "main_ico": "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/main.png",
+            "main_ico": "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/5.png",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -154,42 +154,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m1.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m2.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m3.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m4.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/4.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m5.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/5.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m6.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/6.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m7.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/7.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m8.png",
+            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/8.png",
             "bg" : "#673AB7"
         }
     ],

@@ -51,6 +51,14 @@
                 { "question" : "Which of the following is the correct Game genre?" },
                 { "question" : "The game play is fast-paced with each round lasting:" },
                 { "question" : "Who is the DJ character?" },
+                { "question" : "Who is the DJ character?" },
+                { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Who is the first character?" },
+                { "question" : "What is the 2nd card?" },
+                { "question" : "How many animals are there?" },
+                { "question" : "Which of the following is the correct Game genre?" },
+                { "question" : "The game play is fast-paced with each round lasting:" },
+                { "question" : "Who is the DJ character?" },
                 { "question" : "Game was published by Garena for which of the following platform(s)?" }
             ],
             "answers" :
@@ -63,10 +71,26 @@
                 { "answer" : "Battle Royale" },
                 { "answer" : "20 minutes" },
                 { "answer" : "Adam and Eve" },
+                { "answer" : "ALOK" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Adam" },
+                { "answer" : "Portugal" },
+                { "answer" : "More" },
+                { "answer" : "Battle Royale" },
+                { "answer" : "20 minutes" },
+                { "answer" : "Adam and Eve" },
                 { "answer" : "Android and iOS" }
             ],
             "options" :
             [
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
+                { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Portugal" }, { "option" : "Snowball" }, { "option" : "zombie invasion" }, { "option" : "Classic" },
+                { "option" : "5" }, { "option" : "2" }, { "option" : "7" }, { "option" : "More" },
+                { "option" : "Adventure" }, { "option" : "Role-Playing" }, { "option" : "Battle Royale" }, { "option" : "Simulation" },
+                { "option" : "10 minutes" }, { "option" : "15 minutes" }, { "option" : "20 minutes" }, { "option" : "25 minutes" },
+                { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
                 { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
                 { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
                 { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
@@ -88,10 +112,18 @@
                 { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/2.gif" },
                 { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/3.gif" },
                 { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/1.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/2.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/3.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
                 { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/image/2.jpg" }
             ],
             "answers" :
             [
+                { "answer" : "Destiny Guardian" },
+                { "answer" : "Predatory Cobra" },
+                { "answer" : "Destiny Effect" },
+                { "answer" : "Cobra Effect" },
                 { "answer" : "Destiny Guardian" },
                 { "answer" : "Predatory Cobra" },
                 { "answer" : "Destiny Effect" },
@@ -104,6 +136,10 @@
                 { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
                 { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
                 { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
                 { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" }
             ]
         }
@@ -112,7 +148,7 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "Guide Tips",
+            "name" : "SIGMA Tips",
             "ico" : "",
             "bg" : "#FB923C"
         },{

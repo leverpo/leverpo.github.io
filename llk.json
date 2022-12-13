@@ -1,0 +1,383 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "204703142",
+
+            "int_interval" : 2,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "",
+            "network" : "is",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+
+            "yandex_ban" : "R-M-DEMO-320x50",
+            "yandex_native" : "R-M-DEMO-native-i",
+            "yandex_int" : "R-M-DEMO-interstitial",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "",
+
+            "main_ico": "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/main.png",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+
+    "quizquestions" : [
+        {
+            "questions" :
+            [
+                { "question" : "Who is the DJ character?" },
+                { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Who is the first character?" },
+                { "question" : "What is the 2nd card?" },
+                { "question" : "How many animals are there?" },
+                { "question" : "Which of the following is the correct Game genre?" },
+                { "question" : "The game play is fast-paced with each round lasting:" },
+                { "question" : "Who is the DJ character?" },
+                { "question" : "Game was published by Garena for which of the following platform(s)?" }
+            ],
+            "answers" :
+            [
+                { "answer" : "ALOK" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Adam" },
+                { "answer" : "Portugal" },
+                { "answer" : "More" },
+                { "answer" : "Battle Royale" },
+                { "answer" : "20 minutes" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Android and iOS" }
+            ],
+            "options" :
+            [
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
+                { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Portugal" }, { "option" : "Snowball" }, { "option" : "zombie invasion" }, { "option" : "Classic" },
+                { "option" : "5" }, { "option" : "2" }, { "option" : "7" }, { "option" : "More" },
+                { "option" : "Adventure" }, { "option" : "Role-Playing" }, { "option" : "Battle Royale" }, { "option" : "Simulation" },
+                { "option" : "10 minutes" }, { "option" : "15 minutes" }, { "option" : "20 minutes" }, { "option" : "25 minutes" },
+                { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
+                { "option" : "Game Boy" }, { "option" : "Android and iOS" }, { "option" : "Linux and Nintendo" }, { "option" : "Sega Mark III" }
+            ]
+        }
+    ],
+
+    "quizimages" : [
+        {
+            "images" :
+            [
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/1.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/2.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/3.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/gif/4.gif" },
+                { "image" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/quizimage/image/2.jpg" }
+            ],
+            "answers" :
+            [
+                { "answer" : "Destiny Guardian" },
+                { "answer" : "Predatory Cobra" },
+                { "answer" : "Destiny Effect" },
+                { "answer" : "Cobra Effect" },
+                { "answer" : "SPAS12" }
+            ],
+            "options" :
+            [
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" }
+            ]
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m1.png",
+            "bg" : "#FBBF24"
+        },{
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m2.png",
+            "bg" : "#A3E635"
+        },{
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m3.png",
+            "bg" : "#38BDF8"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m4.png",
+            "bg" : "#2DD4BF"
+        },{
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m5.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m6.png",
+            "bg" : "#2196F3"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m7.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
+            "name" : "games",
+            "ico" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/main/m8.png",
+            "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Zoopolis: Animal Evolution",
+            "ico" : "https://play-lh.googleusercontent.com/qi9Q5yIgYuSFYOLaRvkrzEWUdIPUoGKZcidP9kP4IRCbLWs7f2vVaMs5_YBWMh5URkU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.azurinteractive.animalsevolution"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ],
+    
+    "games" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif1.gif"
+        },{
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif7.gif"
+        },{
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif6.gif"
+        },{
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif5.gif"
+        },{
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/scratch/gif4.gif"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/gif/3gif.gif"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b8.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/gif/2gif.gif"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b7.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/gif/1gif.gif"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b6.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b5.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b4.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b3.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/mone4eanee/kjooi/main/wallpaper/image/b2.png"
+        }
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "J.Biebs",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/2.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/1.png",
+            "part1" : "SPECIAL SURVIVAL ABILITY",
+            "part2" : "J.Biebs is a man who wants to unite a fractured world. Through his childhood experiences, he learned that the answer to people’s problems is not money or power but the actual connection between people. He has decided to use his singing skills to dedicate his life to reunite the world."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Homer",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/4.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/3.png",
+            "part1" : "Senses Shockwave",
+            "part2" : "Releases a drone towards the nearest enemy within a 100m frontal distance, creating a 5m-diameter pulse explosion which reduces movement speed by 10% and firing speed by 10%."
+        },
+        
+        {
+            "url" : "",
+            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
+            "name" : "Kenta",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/6.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/5.png",
+            "part1" : "Swordsman‘s Wrath",
+            "part2" : "Forms a frontal shield of 5m width that reduces 65% weapon damage coming from the front. Lasts for 5s and resets when user fires a shot. CD: 120s.Kenta served as a bodyguard and bladesmith for Hayato Yagamis family for years. He is a man of few words but protects his new, young master in whatever situation they find themselves in. He does have his own personal desires, but he puts them on the backburner as he serves Hayato during a dangerous time for the Yagami family."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Nairi",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/8.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/7.png",
+            "part1" : "Ice Iron",
+            "part2" : "Gloowalls deployed will recover 40% of current durability every 1s when damage is taken. Damage increased 30% when using ARs on Gloo WallsNairi found an interest in weather at a young age when he was forced away from cold climates. But his love for snow led him to find a way to get himself back there. He developed micromanipulation climate technology to allow him to survive in the most extreme environments. Now he spends his time rock climbing, hiking and chasing storms looking for the answers to predicting climate."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Otho",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/10.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/9.png",
+            "part1" : "Memory Mist",
+            "part2" : "After eliminating an enemy, the positions of other enemies within 25m of the elimination spot will be revealed. Info will be shared with teammates.Otho has an imaginative yet very practical mind. He is scared to death of forgetting the memories of his past and is trying to find ways to preserve the past. He is getting closer every day and in the process has developed a device that allows him to see others intentions. When he isnt researching more mechanisms to memory, he is out with his friends and spending time daydreaming with his dog."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Leon",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/12.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/11.png",
+            "part1" : "Buzzer Beater",
+            "part2" : "Leon is a university student that has some extreme basketball skills and isnt afraid to show them. He can jump higher than almost any one he knows with the help of his bionic leg. He has an interest in electronic and knows how to fix and tinker with his leg when it malfunctions. He may seem like he only cares about basketball, but he uses the sport not only to support his family but also his friends."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "K",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/14.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/13.png",
+            "part1" : "Master of All",
+            "part2" : "Max EP increases by 50. Jiujitsu Mode: Allies within 6m get 500% increase in EP conversion rate. Psychology Mode: Recover 2 EP every 3s, up to 100 EP. Mode switch CD 3sK was a smart kid, but like most kids his age he didn’t take school seriously. When he was 16, still a junior in high school, he got into a car crash and injured his spine. His doctors told him he would never walk again. But he refused to give up - this would not be the end for him. He went to physical therapy, did his own therapy at home, and found a trainer to help him push further."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "rafael",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/16.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/15.png",
+            "part1" : "Dead Silent",
+            "part2" : "Silencing effect when using snipers and marksman rifles. Enemies hit and downed suffer 40% faster HP loss.Rafael was a sweet family man until a terrible family tragedy sent him down the path of cold-heartedness and revenge. He now searches the world not only for the man who destroyed his family while taking contracts to bring justice to other evils. As the years went by, he realized life wasn’t as black and white as it seemed. The appearance of the lovely Laura in his life has now thrown another wrench into the carefully crafted structure of his life."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Alvaro",
+            "img1" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/18.png",
+            "img2" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/guide%20image/17.png",
+            "part1" : "Art of Demolition",
+            "part2" : "Explosive weapon damage increases by 10%, damage range increases by 7%.Alvaro is a young man with an explosive personality. A childhood accident gifted him with special explosive powers, at the cost of his memories. He is lost in a constant circle of searching for his memories and needing to use his powers to save those he cares for. The only constant he has found in his life is Kapella, his childhood best friend, whom he no longer consciously remembers."
+        }
+       
+    ]
+}

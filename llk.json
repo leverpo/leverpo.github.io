@@ -148,48 +148,48 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "SIGMA Tips",
+            "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/1.png",
+            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/2.png",
+            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/3.png",
+            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/4.png",
+            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/5.png",
+            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/6.png",
+            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/7.png",
+            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/8.png",
+            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
             "bg" : "#673AB7"
         }
     ],
